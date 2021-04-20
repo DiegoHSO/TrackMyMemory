@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>mainmemory</key>
+		<dict>
+			<key>Title</key>
+			<string>Main Memory</string>
+			<key>Definition</key>
+			<string>Is where programs and data are kept when the processor is actively using them.</string>
+		</dict>
+		<key>internalfragmentation</key>
+		<dict>
+			<key>Title</key>
+			<string>Internal Fragmentation</string>
+			<key>Definition</key>
+			<string>When any program, no matter how small, occupies an entire partition.</string>
+		</dict>
+		<key>externalfragmentation</key>
+		<dict>
+			<key>Title</key>
+			<string>External Fragmentation</string>
+			<key>Definition</key>
+			<string>When the total unused space of various partitions cannot be used to load the processes even though there is space available, but not in a contiguous form.</string>
+		</dict>
+		<key>frames</key>
+		<dict>
+			<key>Title</key>
+			<string>Frame</string>
+			<key>Definition</key>
+			<string>A fixed-length block of main memory.</string>
+		</dict>
+		<key>pages</key>
+		<dict>
+			<key>Title</key>
+			<string>Page</string>
+			<key>Definition</key>
+			<string>A fixed-length block of a process.</string>
+		</dict>
+		<key>process</key>
+		<dict>
+			<key>Title</key>
+			<string>Process</string>
+			<key>Definition</key>
+			<string>A program in execution. A process is controlled and scheduled by the operating system.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

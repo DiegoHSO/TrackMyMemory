@@ -6,6 +6,7 @@
 # About
 
 Have you ever wondered how does your Operating System deals with the amount of applications you use? 🧐
+
 How are they organized into main memory? 🤔
 
 Inspired by Operating Systems classes I was having in college during the Swift Student Challenge submission period, I created a Playground Book that has the objective of explaining, in an interactive way, some Memory Management Techniques. 

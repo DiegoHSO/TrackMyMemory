@@ -1,5 +1,5 @@
 # Track My Memory
-**Track My Memory - WWDC21 Swift Student Challenge Submission [Submitted]**
+**Track My Memory - WWDC21 Swift Student Challenge Submission [Rejected ☹️]**
 
 ![](https://github.com/DiegoHSO/TrackMyMemory/blob/main/PlaygroundCover.png)
 
